@@ -82,7 +82,7 @@ src/
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](./public/screenshots/add-incident.png)
 
 ### Add Incident Form
-![Add Incident Screenshot](./screenshots/add-incident.png)
+![Add Incident Screenshot](./public/screenshots/add-incident.png)
