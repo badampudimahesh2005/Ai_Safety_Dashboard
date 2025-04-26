@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Incident } from '../types';
-import SeverityBadge from './severityBadge';
+import SeverityBadge from './SeverityBadge';
 import { FaAngleDown } from "react-icons/fa6";
 import { FaChevronUp } from "react-icons/fa";
 import { MdDateRange } from "react-icons/md";
